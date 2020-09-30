@@ -19,7 +19,7 @@
 - 😄 Pronouns: He/His
 
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/sanbad36">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanbad36&theme=light&hide_langs_below=1" />
 </a>
 <div align="center">

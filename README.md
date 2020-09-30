@@ -1,4 +1,4 @@
-## Hola, I'm [Sanket Badjate!] 👋
+## Hola, I'm Sanket Badjate! 👋
 
 <a href="https://www.linkedin.com/in/sanket-badjate/">
   <img align="left" alt="Sanket's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,7 +15,7 @@
 - 🔭 I’m currently working as an Intern at [LinuxWorld Informatics Pvt.Ltd.] (https://www.linuxworldindia.org/).
 - 🌱 I’m currently learning various new technologies and frameworks
 - 📫 How to reach me: [Linked In - @sanket-badjate](https://www.linkedin.com/in/sanket-badjate/) , [Youtube - @sanketbadjate](https://www.youtube.com/channel/UCZgOTQPA1Vi7JIaWUNsPqkQ/featured)
-- 👨‍💻 Check out my blogs on technical stuff [Medium] (https://medium.com/@sanketbadjate36)
+- 👨‍💻 Check out my blogs on technical stuff [Medium- @sanketbadjate] (https://medium.com/@sanketbadjate36)
 - 😄 Pronouns: He/His
 
 

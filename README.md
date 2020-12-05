@@ -22,8 +22,8 @@
 <a href="https://github.com/sanbad36">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanbad36&theme=light&hide_langs_below=1" />
 </a>
+
 <div align="center">
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 

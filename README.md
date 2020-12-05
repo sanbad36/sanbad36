@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working as an Intern at [LinuxWorld Informatics Pvt.Ltd.] (https://www.linuxworldindia.org/).
+- 🔭 I’m currently working as an Intern at [LinuxWorld Informatics Pvt.Ltd.](https://www.linuxworldindia.org/).
 - 🌱 I’m currently learning various new technologies and frameworks
 - 📫 How to reach me: [Linked In - @sanket-badjate](https://www.linkedin.com/in/sanket-badjate/) , [Youtube - @sanketbadjate](https://www.youtube.com/channel/UCZgOTQPA1Vi7JIaWUNsPqkQ/featured)
 - 👨‍💻 Check out my blogs on technical stuff [Medium- @sanketbadjate] (https://medium.com/@sanketbadjate36)

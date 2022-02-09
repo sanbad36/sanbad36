@@ -15,15 +15,12 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working as an Intern at [LinuxWorld Informatics Pvt.Ltd.](https://www.linuxworldindia.org/).
+
 - 🌱 I’m currently learning various new technologies and frameworks
 - 📫 How to reach me: [Linked In - @sanket-badjate](https://www.linkedin.com/in/sanket-badjate/) , [Youtube - @sanketbadjate](https://www.youtube.com/channel/UCZgOTQPA1Vi7JIaWUNsPqkQ/featured)
 - 👨‍💻 Check out my blogs on technical stuff [Medium- @sanketbadjate](https://medium.com/@sanketbadjate36)
 - 😄 Pronouns: He/His
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="290" />
-<a href="https://github.com/sanbad36">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanbad36&theme=light&hide_langs_below=1" height="290" />  
-</a>
 
 <div align="center">
 

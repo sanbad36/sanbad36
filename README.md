@@ -12,6 +12,11 @@
 <a href="https://sanketbadjate36.medium.com/">
  <img align="left" alt="My medium blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg"/>
 </a>
+
+</a>
+<a href="https://leetcode.com/Sanketbad/">
+ <img align="left" alt="My leetcode profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg"/>
+</a>
 <br/>
 <br/>
 

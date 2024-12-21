@@ -31,6 +31,12 @@
 
 <div align="center">
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sanbad36/count.svg" />
+</p>
+
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
